@@ -14,3 +14,4 @@ data/*
 *.pdf
 example.db
 .DS_Store
+/2600-env/
